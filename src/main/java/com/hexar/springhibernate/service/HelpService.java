@@ -2,8 +2,6 @@ package com.hexar.springhibernate.service;
 
 
 import com.hexar.springhibernate.model.Person;
-import com.hexar.springhibernate.repository.PersonRepository;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 import java.util.List;
 
