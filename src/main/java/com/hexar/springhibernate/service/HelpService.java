@@ -15,7 +15,7 @@ public class HelpService {
         int count = persons.size();
 
 
-         //dev test test  notas
+         //dev test test  a1 a2 a3
         // Vypsání počtu do konzole
         System.out.println("Počet osob: " + count);
     }
