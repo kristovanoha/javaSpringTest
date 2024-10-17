@@ -15,7 +15,7 @@ public class HelpService {
         int count = persons.size();
 
 
-         //dev test test  a1 a2 a3 a4  Novy ucet sd dd
+         //dev test test  a1 a2 a3 a4  Pull request
         // Vypsání počtu do konzole
         System.out.println("Počet osob: " + count);
     }
