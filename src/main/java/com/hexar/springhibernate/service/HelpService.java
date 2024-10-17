@@ -13,10 +13,11 @@ public class HelpService {
     public void printPersonCount(List<Person> persons) {
         // Získání počtu osob
         int count = persons.size();
+
  //treti hexarus zmena  OPRAVA   feature 5 s
   // novinka na pul request
          //dev test test  a1 a2 a3 a4  Pull request
-        // Vypsání počtu do konzole
+
         System.out.println("Počet osob: " + count);
     }
 
