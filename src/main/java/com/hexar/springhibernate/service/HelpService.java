@@ -14,6 +14,8 @@ public class HelpService {
         // Získání počtu osob
         int count = persons.size();
 
+
+         //dev test test  a1 a2 a3 a4  MUJ TESTOVAci
         // Vypsání počtu do konzole
         System.out.println("Počet osob: " + count);
     }
