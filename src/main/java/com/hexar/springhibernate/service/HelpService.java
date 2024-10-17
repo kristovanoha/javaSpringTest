@@ -14,7 +14,7 @@ public class HelpService {
         // Získání počtu osob
         int count = persons.size();
 
- //treti hexarus zmena  OPRAVA   feature 5 s
+ //treti hexarus zmena  OPRAVA   feature 5 s 666
   // novinka na pul request
          //dev test test  a1 a2 a3 a4  Pull request
 
