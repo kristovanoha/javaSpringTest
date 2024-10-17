@@ -14,6 +14,7 @@ public class HelpService {
         // Získání počtu osob
         int count = persons.size();
 
+
         System.out.println("Počet osob: " + count);
     }
 
