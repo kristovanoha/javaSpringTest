@@ -13,7 +13,7 @@ public class Person {
     private Long id;
     private String name;
 
-    // Gettery a settery feature 5
+    // Gettery a settery feature 5 s
     public Long getId() {
         return id;
     }
